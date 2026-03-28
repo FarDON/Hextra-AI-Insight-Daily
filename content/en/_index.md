@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-26" title="AI News Daily 2026/03/26" subtitle="英伟达Nemotron Nano 12B、谷歌Lyria 3、TurboQuant及即梦3.0Pro等新模型密集发布 LeCun团队LeWM仅1500万参数实现48倍规划提速，MIT提出模型过度自信检" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-27" title="AI News Daily 2026/03/27" subtitle="Gemini 3.1 Flash Live与Lyria 3 Pro发布，谷歌TurboQuant压缩算法冲击内存行业 CapCut无时间线编辑器、阿里Qoder多智能体编程、钉钉悟空AI密集上线 Cl" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-26" title="AI News Daily 2026/03/26" subtitle="英伟达Nemotron Nano 12B、谷歌Lyria 3、TurboQuant及即梦3.0Pro等新模型密集发布 LeCun团队LeWM仅1500万参数实现48倍规划提速，MIT提出模型过度自信检" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-25" title="AI News Daily 2026/03/25" subtitle="苹果重构Siri增记忆，英伟达发布Nemotron 3 Super OpenAI设非营利机构年投10亿，关停Sora视频产品 迪士尼撤销OpenAI十亿合约，欧洲议会拟禁脱衣AI Anthropic发" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-24" title="AI News Daily 2026/03/24" subtitle="Claude发布电脑自主操控，Mistral推企业私有建模平台 对齐评估漏洞曝光，简单微调可绕过模型审查 白宫定训练数据合理使用，沃顿揭人类认知投降 SK海力士利润首超三星，iPhone跑通400B " icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-23" title="AI News Daily 2026/03/23" subtitle="Anthropic发布架构师认证，微信接入OpenClaw智能体 字节开源deer-flow，browser-use实现浏览器自动化 SQL训练分类器、BioReason-Pro蛋白质模型等前沿突破 " icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-22" title="AI News Daily 2026/03/22" subtitle="黄仁勋预言Anthropic营收破万亿，软银80万亿日元建美国最大AI基建 小米投87亿美元做AI，十五五规划锚定数字经济占比超一成 闲鱼AI捡漏监控近万星，北大MagicSkills实现Agent技" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-21" title="AI News Daily 2026/03/21" subtitle="'OpenClaw: 320k stars, 90k daily deployments. NVIDIA introduces AI token" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your perfect launchpad for newcomers to AI! It's crafted to help you quickly grasp crucial industry shifts and keep you from getting swamped by fragmented info. Get ready to level up your learning, fast!
 
 ### 2. Stay in Daily Sync
-The [AI Daily Archive](/en/2026-03/2026-03-26) is your daily fix to stay razor-sharp on AI! Just 5 minutes a day keeps you totally in sync with the global AI pulse. Stay sharp! 🚀
+The [AI Daily Archive](/en/2026-03/2026-03-27) is your daily fix to stay razor-sharp on AI! Just 5 minutes a day keeps you totally in sync with the global AI pulse. Stay sharp! 🚀
 
 ### 3. Explore Deeper Practice
 The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice for those ready to geek out! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! 🪄
